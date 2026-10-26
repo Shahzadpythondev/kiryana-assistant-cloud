@@ -7,3 +7,11 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+app.py
+app_cloud_backup.py
+app_local_backup.py
+cloud_app_before_*.py
+cloud_app_prelaunch_backup.py
+cloud_app_test_backup.py
+cloud_app_working_backup.py
+restore_route.txt
